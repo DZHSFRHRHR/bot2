@@ -25,7 +25,7 @@ from telegram.ext import (
 )
 
 # Put the NEW token issued by @BotFather here. Do not use an exposed/revoked token.
-TOKEN = "PASTE_YOUR_NEW_BOT_TOKEN_HERE"
+TOKEN = "8641691193:AAEZQAUUzMEA6PvU5sayAFlHimQ2yB3nSc4"
 OWNER_ID = 7665891917
 API_URL = os.getenv("LOCAL_BOT_API_URL", "http://127.0.0.1:8081").rstrip("/")
 SHARED = Path(os.getenv("SHARED_DIR", "/data/output"))
